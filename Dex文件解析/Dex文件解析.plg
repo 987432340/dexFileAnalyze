@@ -1,0 +1,32 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Dex文件解析 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP9F23.tmp" with contents
+[
+/nologo /MTd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_MBCS" /FR"Debug/" /Fp"Debug/Dex文件解析.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\Coding\Microsoft Visual Studio\MyProjects\Dex文件解析\Dex文件解析Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP9F23.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/Dex文件解析.pdb" /debug /machine:I386 /out:"Debug/Dex文件解析.exe" /pdbtype:sept  ".\Debug\Dex文件解析.obj" ".\Debug\Dex文件解析Dlg.obj" ".\Debug\StdAfx.obj" ".\Debug\Dex文件解析.res" "
+<h3>Output Window</h3>
+Compiling...
+Dex文件解析Dlg.cpp
+Linking...
+LINK : fatal error LNK1168: cannot open Debug/Dex文件解析.exe for writing
+Error executing link.exe.
+Creating command line "bscmake.exe /nologo /o"Debug/Dex文件解析.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\Dex文件解析.sbr" ".\Debug\Dex文件解析Dlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Dex文件解析.exe - 1 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
