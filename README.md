@@ -10,6 +10,9 @@
 - `Dex文件解析/dex.h`：包含了dex文件解析时用到的各种结构
 - `Dex文件解析/Dex文件解析Dlg.cpp`:有用的代码都在这里面
 
+程序运行截图：
+
+![](https://cloud.githubusercontent.com/assets/9676660/6635625/1aa6aca8-c9a3-11e4-9653-35a9fab2fa13.jpg)
 
 test.java代码：
 
